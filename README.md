@@ -51,7 +51,8 @@ sudo apt install packer   # Ubuntu
 ```
 
 Alternatively, use the Windows Subsystem for Linux (WSL):
-![WSL Screenshot](https://github.com/user-attachments/assets/12f7cb9c-7add-4e72-a1f9-968719b8de1c)
+![Screenshot from 2025-03-18 17-21-43](https://github.com/user-attachments/assets/53b449ad-cf1b-4532-9629-b8f539c234d3)
+
 
 ### Why AWS CLI Is Needed
 - **Authentication**: Easily handle credentials.
