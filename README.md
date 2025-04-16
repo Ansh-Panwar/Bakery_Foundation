@@ -16,7 +16,8 @@ Before you begin, make sure you have an IAM user configured for Packer access:
 3. Select **Users** > **Add user**.
 4. Set a username (e.g., `packer-user`) and enable **Programmatic access**.
 
-   ![IAM Screenshot](https://github.com/user-attachments/assets/cb5e90d7-be6f-400d-8903-07d774f11516)
+  ![Screenshot from 2025-03-18 17-06-02](https://github.com/user-attachments/assets/e087459e-ab82-4730-8cf1-509fe9dbb50c)
+
 
 #### **Step 2: Assign IAM Policies**
 Attach the following policies:
