@@ -128,8 +128,10 @@ The process will take a few minutes. At the end, you'll receive the AMI ID for y
 
 ---
 
-![Build Screenshot](https://github.com/user-attachments/assets/64f9526b-8112-43cb-9868-17fc0aa486cc)
-![AMI Output](https://github.com/user-attachments/assets/0e8b9f8c-9aac-46a5-b694-c6cb5cc96d99)
+![Screenshot from 2025-03-18 17-22-22](https://github.com/user-attachments/assets/b3bef108-7238-41f4-adf8-10aaf8053abb)
+
+![Screenshot from 2025-03-18 17-22-31](https://github.com/user-attachments/assets/19a35dab-950a-43c2-9f8c-275c2196eecc)
+
 
 ---
 
@@ -140,8 +142,10 @@ The process will take a few minutes. At the end, you'll receive the AMI ID for y
 2. Locate your new AMI.
 3. Launch an EC2 instance from it.
 
-![EC2 AMI Launch](https://github.com/user-attachments/assets/83ad6b03-d072-4b38-af5c-ef69db480332)
-![Launch Instance](https://github.com/user-attachments/assets/7c95b4e2-386d-4ce3-a9a7-3bc68432641b)
+![Screenshot from 2025-03-18 17-19-59](https://github.com/user-attachments/assets/d78f04b2-fba5-429d-b733-87be0eab7c20)
+
+![Screenshot from 2025-03-18 17-19-44](https://github.com/user-attachments/assets/987f3261-b438-4451-9919-ca3a241eb7bd)
+
 
 ---
 
