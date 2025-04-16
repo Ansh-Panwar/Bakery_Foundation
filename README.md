@@ -50,7 +50,6 @@ brew install packer       # macOS
 sudo apt install packer   # Ubuntu
 ```
 
-Alternatively, use the Windows Subsystem for Linux (WSL):
 ![Screenshot from 2025-03-18 17-21-43](https://github.com/user-attachments/assets/53b449ad-cf1b-4532-9629-b8f539c234d3)
 
 
@@ -112,7 +111,8 @@ If there are no errors, you're ready to build.
 
 ---
 
-![Validation Screenshot](https://github.com/user-attachments/assets/3f1bae49-f3bc-4361-87ee-12f344320191)
+![Screenshot from 2025-03-18 17-21-49](https://github.com/user-attachments/assets/13daa60f-01e7-49e2-ab38-625846c44ae2)
+
 
 ---
 
